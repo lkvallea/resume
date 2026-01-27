@@ -64,3 +64,17 @@ The intent is to enable **accurate, traceable conversations**, not automated eva
 ├── Markdown-agent-aware.md   # Resume source of truth
 ├── README.md                 # This file
 └── .gitignore
+
+---
+
+### External Project Reference
+
+For selected projects, additional context and validation may be available
+through senior stakeholders involved in delivery and operations.
+
+One such reference includes leadership from the **Procter & Gamble – Walmart
+logistics initiative**, a project that exceeded its originally committed scope
+and duration.
+
+**Public professional profile:**  
+https://linkedin.com/in/karlacervantesvelasco/
