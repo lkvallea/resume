@@ -68,8 +68,7 @@ system design, and continuous improvement.
 
 ---
 ## EXPERIENCE
-
-### Goals Succeeded Matrix
+## Goals Succeeded Matrix
 <!-- agent:render visual=matrix layout=2x3 -->
 
 #### ROLE
@@ -80,6 +79,7 @@ Customer Logistics Solutions Designer — Procter & Gamble
 **System Type:** Business-critical, data-intensive systems  
 **Scale:** National retail operations  
 **Production Start Year:** 2010
+**External reference:** LinkedIn — https://www.linkedin.com/in/karlacervantesvelasco/
 
 ---
 
@@ -154,7 +154,8 @@ Fullstack Developer / Fullstack Developer Lead - Ometl SAPI
 **Domain:** Startup platforms, web and mobile backend systems  
 **System Type:** Business-critical backend and API systems  
 **Scale:** Multiple production applications  
-**Period:** Jun 2017 – Aug 2022  
+**Period:** Jun 2017 – Sep 2022 
+**External reference:** LinkedIn — https://www.linkedin.com/in/jlmundo/
 
 ---
 
@@ -245,7 +246,7 @@ Backend / Systems Engineer - Informática Médica S.A.
 **Domain:** Healthcare workflows and data systems, Healthcare IT Platform 
 **System Type:** Business-critical, regulated systems  
 **Scale:** National and multi-institutional usage  
-**Production Start Year:** 2024
+**Period:** Feb 24 - Mar 25
 
 ---
 
@@ -254,11 +255,12 @@ Backend / Systems Engineer - Informática Médica S.A.
   workflows used by multiple institutions.
 - Built and maintained data migration and integration processes to ensure data
   consistency across heterogeneous systems.
-- Worked closely with operations and functional teams to translate regulatory
-  and business requirements into reliable backend systems, including legacy
-  platforms.
-- Supported production deployments through CI/CD pipelines and controlled
-  release processes.
+- Defined and drove technical decisions to translate regulatory and business
+  requirements into reliable backend systems, including legacy platforms.
+
+- Owned and executed production deployments through CI/CD pipelines and
+  controlled release processes.
+
 
 ---
 ##### TECHNICAL STACK & PRACTICE
@@ -288,8 +290,8 @@ Backend / Systems Engineer - Informática Médica S.A.
 
 ---
 
-## PERIOD
-Independent Projects & Professional Development  
+## PROFESSIONAL DEVELOPMENT & INDEPENDENT WORK
+**Period:** Apr 2025 – Present 
 
 **Focus:** Backend systems, cloud architecture, workflow automation, AI agents  
 **Context:** Self-directed technical projects and contractor-style development  
@@ -355,6 +357,9 @@ React.js (supporting role)
 **Bachelor’s Degree — Industrial Administration**  
 UPIICSA · Instituto Politécnico Nacional (IPN), Mexico
 
+**AWS Certified Solutions Architect – Associate (SAA-C03)**  
+Amazon Web Services  
+Credential (Credly): https://www.credly.com/badges/9caf630d-3617-4545-8955-e3df74624d3b
 
 ## Outside Engineering
 
@@ -362,3 +367,14 @@ UPIICSA · Instituto Politécnico Nacional (IPN), Mexico
   risk assessment, and strict safety protocols.
 - **Open Water Diver Certification** — Experience operating in controlled,
   high-risk environments requiring planning, focus, and situational awareness.
+
+---
+
+## PROFESSIONAL DIRECTION
+Motivated to work with cross-functional teams, take ownership of outcomes, and grow toward people leadership responsibilities.
+
+---
+
+## GIT REPO
+Resume source, full version and updates: https://github.com/lkvallea/resume
+
