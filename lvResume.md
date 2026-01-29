@@ -49,7 +49,7 @@ system design, and continuous improvement.
 
 - GitHub: https://github.com/lkvallea
 - Email: valleleas86@gmail.com
-- Phone: +52 55 8532 1524
+- Phone: +52 56 4864 1876
 - Linkedin: https://www.linkedin.com/in/luis-v-639b3375/
 
 ---
