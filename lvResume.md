@@ -204,6 +204,9 @@ Senior Fullstack Developer - Scalefast / ESW
   search use cases, integrated as part of existing data workflows.
 - Improved system reliability by documenting database schemas and data flows,
   increasing traceability and shared understanding across teams.
+- Collaborated on frontend integrations using React for internal tools and
+  operational interfaces, working at a mid-level depth to support
+  data-driven workflows.
 
 ---
 ##### BUSINESS IMPACT
@@ -261,7 +264,7 @@ Backend / Systems Engineer - Informática Médica S.A.
 | terraform         | Terraform (IaC)               | medium| use  | infrastructure setup   |
 | azure             | Azure Environment             | medium| use  | cloud deployment       |
 | git               | Git / Version Control         | high  | use  | daily development      |
-| frontend_react    | React (Frontend Integration)  | basic | use  | internal interfaces    |
+| frontend_react    | React (Frontend Integration)  | medium | use  | internal interfaces    |
 
 ---
 
