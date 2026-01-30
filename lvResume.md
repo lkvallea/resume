@@ -365,5 +365,6 @@ Motivated to work with cross-functional teams, take ownership of outcomes, and g
 ---
 
 ## GIT REPO
-Resume source, full version and updates: https://github.com/lkvallea/resume
+- Resume source, full version and updates: https://github.com/lkvallea/resume
 
+- Structured for automated parsing, AI-assisted review, and reproducible PDF generation
